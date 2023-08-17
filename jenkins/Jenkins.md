@@ -10,7 +10,7 @@
 启动命令
 
 ~~~bash
-java -jar jenkins.war
+java -jar jenkins.war # 默认端口8080
 ~~~
 
 默认密码 C:\Users\sun\.jenkins\secrets\initialAdminPassword
